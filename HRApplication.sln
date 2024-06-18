@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRApplication.Infrastructur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRApplication.Services", "HRApplication.Services\HRApplication.Services.csproj", "{1C7A0B0C-D00E-4222-B94F-D2383A24C655}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRApplication.Web", "HRApplication.Web\HRApplication.Web.csproj", "{53E79211-B97E-4B74-8BDD-9A3F587E358E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{1C7A0B0C-D00E-4222-B94F-D2383A24C655}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C7A0B0C-D00E-4222-B94F-D2383A24C655}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C7A0B0C-D00E-4222-B94F-D2383A24C655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E79211-B97E-4B74-8BDD-9A3F587E358E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E79211-B97E-4B74-8BDD-9A3F587E358E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E79211-B97E-4B74-8BDD-9A3F587E358E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E79211-B97E-4B74-8BDD-9A3F587E358E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
